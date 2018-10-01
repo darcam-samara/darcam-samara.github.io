@@ -1,0 +1,1 @@
+"use strict";function myFunction(){var t=document.getElementById("myLinks");"block"===t.style.display?t.style.display="none":t.style.display="block"}

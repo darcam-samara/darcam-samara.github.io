@@ -1,0 +1,1 @@
+"use strict";var consultationForm=document.querySelector(".consultation-form");consultationForm.addEventListener("submit",function(t){return submitForm(t)});

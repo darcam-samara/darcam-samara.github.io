@@ -1,0 +1,1 @@
+"use strict";var contactPageForm=document.querySelector(".contact-page-form");contactPageForm.addEventListener("submit",function(t){return submitForm(t)});
