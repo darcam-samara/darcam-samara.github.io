@@ -1,122 +1,122 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>https://darcam.ru/</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://darcam.ru/</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://darcam.ru/iskusstvennyj-kamen.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kamen.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://darcam.ru/iskusstvennyj-kamen-alpijskij.html
-</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kamen-alpijskij.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/iskusstvennyj-kamen-kvarc.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kamen-kvarc.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/iskusstvennyj-kamen-koral.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kamen-koral.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/iskusstvennyj-kirpich.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kirpich.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/iskusstvennyj-kirpich-loft.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kirpich-loft.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://darcam.ru/iskusstvennyj-kirpich-brugge.html
-</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/iskusstvennyj-kirpich-brugge.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/naturalnyj-kamen.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://darcam.ru/naturalnyj-kamen-serpentinit.html
-</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen-serpentinit.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://darcam.ru/naturalnyj-kamen-kora-dereva.html
-</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen-kora-dereva.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/naturalnyj-kamen-zlatolit.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen-zlatolit.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/naturalnyj-kamen-serebrit.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen-serebrit.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/promotions.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/promotions.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/price.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/price.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/reviews.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/reviews.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/gallery.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/gallery.html</loc>
+  <lastmod>2018-10-02T11:55:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/contact.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/contact.html</loc>
+  <lastmod>2018-10-02T11:55:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/catalog.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/catalog.html</loc>
+  <lastmod>2018-10-02T11:55:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/calculator.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/calculator.html</loc>
+  <lastmod>2018-10-02T11:55:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://darcam.ru/policy.html</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/policy.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>
-https://darcam.ru/naturalnyj-kamen-dolomit-seriy.html
-</loc>
-<lastmod>2018-10-01T15:23:48+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://darcam.ru/naturalnyj-kamen-dolomit-seriy.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darcam.ru/naturalnyj-kamen-bordo.html</loc>
+  <lastmod>2018-10-02T11:55:49+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 </urlset>
