@@ -1,4 +1,4 @@
 User-agent: *
 Crawl-delay: 0.5
-Sitemap: https://darcam.ru/sitemap.xml
-Host: https://darcam.ru
+Sitemap: https://даркам.рус/sitemap.xml
+Host: https://даркам.рус
